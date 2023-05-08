@@ -32,7 +32,7 @@ python3 2_multifichero.py <grafo_1/n> <grafo_2/n> ... <grafo_n/n>
 
 Archivo: `3_triciclo_local.py`
 
-Este apartado procesa múltiples grafos de forma individual y encuentra los 3-ciclos en cada grafo. Para ejecutar este archivo, se debe utilizar la siguiente línea de comando:
+Procesa múltiples grafos de forma individual y encuentra los 3-ciclos en cada grafo. Para ejecutar este archivo, se debe utilizar la siguiente línea de comando:
 
 ```
 python3 3_triciclo_local.py <grafo_1/n> <grafo_2/n> ... <grafo_n/n>
