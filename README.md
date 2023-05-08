@@ -1,6 +1,6 @@
 # Triciclos en un grafo
 
-Este proyecto se centra en encontrar 3-ciclos en grafos utilizando el módulo PySpark de Apache Spark. Spark permite paralelizar procesos y mejorar el rendimiento al procesar grandes conjuntos de datos. El objetivo del proyecto es practicar y familiarizarse con PySpark y sus funciones en la resolución de problemas reales, como el análisis de grafos.
+Este proyecto se centra en encontrar 3-ciclos en grafos utilizando el módulo PySpark en Python. Spark permite paralelizar procesos y mejorar el rendimiento al procesar grandes conjuntos de datos. El objetivo del proyecto es practicar y familiarizarse con PySpark y sus funciones en la resolución de problemas reales, como el análisis de grafos.
 
 ## Instrucciones de uso
 
